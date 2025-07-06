@@ -10,7 +10,7 @@ This Is A Netflix Account Checker For Educational Purpose
 
 ## Installing:
 
-git clone https://github.com/arian69000/Netflix-Account-Checker
+git clone https://github.com/arian5678/Netflix-Account-Checker
 
 cd Netflix-Account-Checker
 
